@@ -9,7 +9,6 @@ Yorumları tutmak için veritabanı kullandık. Bu sayede kimin hangi mekâna yo
 Puanlar hem görüntülenen mekânın açıklama sayfasında hem de kategori sayfasında veritabanından okuyarak dinamik olarak hesaplanıyor
 
 ## Grup Üyeleri:
-<hr>
 1190505021 – Metin Birikim Karaçay <br>
 1190505060 – Amine Hatun Ergin <br>
 5190505047 - Caner Kenanoğlu <br>
