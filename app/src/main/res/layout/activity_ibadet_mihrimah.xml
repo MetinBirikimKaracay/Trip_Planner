@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IbadetMihrimah">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:id="@+id/mainLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_marginTop="10dp"
+                android:src="@drawable/ibadethanemihrimahcami"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"/>
+            <RatingBar
+                android:id="@+id/ratingBarIbadetMihrimah"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:stepSize="1"
+                android:isIndicator="true"
+                android:layout_marginTop="15dp"
+                android:numStars="5" />
+
+            <TextView
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:textSize="14dp"
+                android:textColor="@color/teal_700"
+                android:textStyle="italic|bold"
+                android:text="Ücretsiz"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="@string/ibadetmihrimah"
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:textSize="15dp"
+                android:textColor="@color/black"
+                android:textStyle="italic|bold"
+                android:text="Müslümanların yatsı namazı vaktine kadar açık."
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:textColor="@color/black"
+                android:textSize="16dp"
+                android:text="	≈ YORUMLAR ≈ "
+                android:textStyle="bold|italic"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            <EditText
+                android:id="@+id/comment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Yorum Yaz" />
+            <Spinner
+                android:id="@+id/spIbadetPuan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/yorumEkle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Paylaş" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

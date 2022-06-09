@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Trip_Planner</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+    <!--Burdan başla kopyalamaya-->
+    <string name="Trip_Planner">DynamicRatingBarInKotlin</string>
+    <string-array name="Puanlar">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="yorumsuz">Henüz Yorum Yapan Yok</string>
+    <!--Buraya kadar-->
+    <string name="emirgan">Emirgân Korusu, İstanbul\ un Sarıyer ilçesinde yer alan bir korudur.İstanbul Boğazı kıyılarında, Emirgân-İstinye semtleri arasında yer alır. İstanbul Boğazı kıyısında, 47,2 hektarlık bir alanda sırtlar ve yamaçlar üstüne yayılmıştır. Çevresi yüksek duvarlarla çevrilmiş durumdadır.</string>
+    <string name="polonezköy">Polonezköy Tabiat Parkı, İstanbul, Polonezköy\ de bulunan bir tabiat parkı köyüdür. Polonezköy, İstanbul\ un Beykoz ilçesinde bulunmaktadır. Çevre ve Orman Bakanlığı tarafından 1994 yılında tabiat parkı ilan edilmiştir. Yaklaşık 3.004 hektarlık bir alanı kaplamaktadır.</string>
+    <string name="göztepepark">Göztepe 60. Yıl Parkı, İstanbul\ un Kadıköy ilçesindeki Göztepe semtinde bulunan park. kuzeyde Bağdat Caddesi, güneyde Operatör Cemil Topuzlu Caddesi ile sınırı bulunmaktadır.</string>
+    <string name="saraçhanepark">Şehzade Camii\ nin yanında yer alan; fıskiyeler, oyun alanı ve Roma su kemeri manzarasının bulunduğu, ağaçlarla bezeli çimenlik park.</string>
+    <string name="topkapıpark">Topkapı Parkı,Topkapı Şehir Parkı veya Topkapı Kültür Parkı, İstanbul Topkapı\ da inşa edilmiş yeni nesil mimari park. Yapımına 1999 yılında başlanmış çeşitli evreler geçirerek günümüzdeki son halini almış ve 2009 yılında hizmete açılmıştır.</string>
+    <string name="yıldızpark">Yıldız Parkı, İstanbul\ un, Beşiktaş İlçesinde yer alan tarihi park. Balmumcu\ dan Ortaköy\ e uzanan Palanga Caddesi kuzey ve doğu sınırını, Ortaköy\ den Beşiktaş\ a uzanan Çırağan Caddesi güney sınırını oluşturur.</string>
+    <string name="beyazit">Beyazıt Devlet Kütüphanesi, Bayezid Camii ve tarihî Sahaflar Çarşısı yakınında, Beyazıt Meydanı\na bakan iki tarihi binada 1884 yılından beri araştırmacılara hizmet veren kütüphanedir. Türkiye\de devlet eliyle kurulan ve oluşum şartları bütün ayrıntılarıyla bilinen ilk kütüphanedir.</string>
+    <string name="ersoy">Kağıthane Mehmet Akif Ersoy İlçe Halk Kütüphanesi, Kültür ve Turizm Bakanlığınca kurulmuş, çocuk ve yetişkin okuyucu salonları bulunan bir kütüphanedir.</string>
+    <string name="orhankemal">Orhan Kemal İl Halk Kütüphanesi\nin bulunduğu bina; Osmanlı döneminde 1470 1475 yılları arasında para basmak amacıyla Darphanei Amire olarak inşa ettirilmiştir. Yapıldığı devrin sivil mimarisinin en güzel eserlerinden biri olan bu bina çeşitli yangın ve depremlerle harap olmuştur.16.11.1981 tarihinde yeniden hizmete başlamıştır.</string>
+    <string name="turabibaba">Okuyucu salonu, çocuk okuyucu salonu, çok amaçlı salon ve internet evi olmak üzere 4 ayrı bölümden oluşur. 2007\ de restore edilmiştir. İstanbul\ un Beyoğlu semtindedir.</string>
+    <string name="ayasofya">İstanbul\da yer alan bir cami, eski bazilika, katedral ve müze. Bizans İmparatoru 1. Justinianus tarafından, 532 537 yılları arasında İstanbul\ un tarihî yarımadasındaki eski şehir merkezine inşa ettirilmiş bazilika planlı bir patrik katedrali.</string>
+    <string name="galata">Galata Kulesi, Bizans İmparatorluğu döneminde, Galata semtinin Ceneviz kolonisi olduğu on dördüncü yüzyıl ortalarında, Cenevizliler tarafından, Galata surlarının bir parçası olarak inşa edilmiştir. Osmanlı döneminde bir süre zindan olarak kullanıldıktan sonra, yangın gözetleme kulesine çevrilmiştir.</string>
+    <string name="kapalicarsi">Kapalıçarşı, İstanbul kentinin merkezinde Beyazıt, Nuruosmaniye ve Mercan semtlerinin ortasında yer alan dünyanın en büyük çarşısı ve en eski kapalı çarşılarından biri. Kapalıçarşı\da yaklaşık 4.000 dükkân bulunmaktadır ve bu dükkânlarda toplam çalışan sayısı yaklaşık 25.000\dir.</string>
+    <string name="sultanahmet">Sultan Ahmet Camii veya Sultânahmed Camiî, 1609 1617 yılları arasında Osmanlı Padişahı 1. Ahmed tarafından İstanbul\daki tarihî yarımadada yaptırılmıştır. Cami mavi, yeşil ve beyaz renkli İznik çinileriyle bezendiği için ve yarım kubbeleri ve büyük kubbesinin içi de yine mavi ağırlıklı kalem işleri ile süslenmiştir.Ayasofya\ nın 1935 yılında camiden müzeye dönüştürülmesiyle, İstanbul\ un ana camii konumuna ulaşmıştır.</string>
+    <string name="topkapi">Topkapı Sarayı, İstanbul Sarayburnu\ nda, Osmanlı İmparatorluğu\ nun 600 yıllık tarihinin 400 yılı boyunca, devletin idare merkezi olarak kullanılan ve Osmanlı padişahlarının yaşadığı saraydır. Bir zamanlar içinde 4.000\ e yakın insan yaşamıştır.</string>
+    <string name="yerebatan">Yerebatan Sarnıcı İstanbul\ un Avrupa yakasında bulunan, şehrin en büyük kapalı sarnıcı. Ayasofya binasının güneybatısındaki küçük bir binadan girilir. Sütun ormanı görünümündeki mekanın tavanı tuğla örülü, çapraz tonozludur. Sarnıç, Bizans imparatoru 1. Justinianus tarafından yaptırılmıştır.</string>
+    <string name="otelinter">Şehrin merkezinde stratejik bir konuma sahip olan bu 5 yıldızlı otel, İstanbul\da mükemmel bir başlangıç noktasıdır. Boğaz manzarasına sahip otelde ayrıca sauna, hamam gibi çok sayıda olanağa sahiptir.</string>
+    <string name="otelholiday">İstanbul Fatih ilçesinde tarihi yarım adada yer alan tesis hem iş ve hem de seyahat amacıyla seyahat eden misafirler için yenilenen Open Lobby dizaynıyla ve parke ile döşenmiş odalarıyla yeme, içme, sosyalleşme ve eğlenmeniz için ideal olanaklar sağlamaktadır. Geziniz veya iş seyahatiniz süresince lobide bulunan bilgisayarda çalışabilirsiniz.</string>
+    <string name="otelcrowne">Crowne Plaza İstanbul Florya\da konaklama ayrıcalığı detaylarda gizli. Misafirlerin konforu için dekorasyonda her detayın düşünüldüğü odalarımızda mavi, beyaz ve sarının tonları ile marin teması hakim, rahatlık ve sadelik ise ön planda.</string>
+    <string name="otelgreen">Pendik Limanı yakınında 538 misafir odası, 5 restoran ve 2 bar, tam donanımlı spa, kapalı,açık havuz fırsatlarıyla dolu bir otel. Aileler için ücretsiz beşik fırsatı mevcut. Hijyene dikkat edilen bu otelde gönül rahatlığıyla keyifli günler geçireceksiniz.</string>
+    <string name="marketcarrefour">CarrefourSA, 1991 yılında Sabancı Holding ve Carrefour ortaklığında kurulan Maltepe merkezli süpermarket zinciri. İlk marketini 1993 yılında İçerenköy\de açmıştır.</string>
+    <string name="marketmopas">Fazıl Narman\ın önderliğinde 10 ortak tarafından kurulan bir aile şirketi olan MOPAŞ, o dönemde (1996) ilk iki mağazaları olan Moda ve Hasanpaşa’yı açma aşamasındayken bu iki mağazanın isminden yapılan bir aranjmanla marketlere MOPAŞ ismini vererek bugünün MOPAŞ süpermarketlerine ilk adımı atmış oldu.</string>
+    <string name="marketmigros">Migros Ticaret A.Ş., Türkiye\deki süpermarket zincirlerinden biridir. Migros\ un temelleri 1954 yılında İstanbul Belediyesi\nin aldığı kararla, İsviçre\de Ucuzluğun Kralı sloganıyla bilinen Migros teşkilatının benzerinin Türkiye\de kurulması ile atıldı.</string>
+    <string name="marketfile">File Market konsept olarak kendi ürünlerini satmaya odaklanan bir market türüdür. Bu marketteki ürünler kaliteyi baz alıyor. Diğer zincir marketlerdeki ürünlerden daha kaliteli ve daha uygun fiyatlı ürünler satmaya çalışıyor.</string>
+    <string name="ibadetaya">Aya Yorgi Patrikhane Kilisesi veya Aziz Yorgi Katedrali, Türkiye\de İstanbul iline bağlı Fatih ilçesinin Fener semtinde bulunan ve İstanbul Rum Ortodoks Patrikhanesi\ne ev sahipliği yapan kilise.</string>
+    <string name="ibadetmihrimah">MihriMâh Sultan Camii İstanbul\ un Karagümrük semtinin Edirnekapı bölümünde surların hemen yanında bulunan cami. Banisi (yaptıran) Kanuni Sultan Süleyman\ın kızı Mihrimah Sultan\dır. 1562 1565 yılları arasında Mimar Sinan tarafından yapıldı.</string>
+    <string name="ibadetsinagog">Bet İsrael Sinagogu, Neve Şalom Sinagogu Vakfı\na bağlı Şişli, İstanbul\da bir sinagog. 1920\lerde kurulan sinagog 1950\lerde bölgede çoğalan Yahudi nüfusu ve Nazilerden kaçan Yahudiler sebebiyle genişletilmiştir. Türkiye\de en sık kullanılan sinagogdur.</string>
+    <string name="ibadetyusa">Allah tarafından gönderilen pek çok peygamber yer almaktadır. Bu peygamberlerden bir tanesi de Hz. Yuşa\dır. Bir rivayete göre, Yuşa\ nın yüce bir kişilik olmasından dolayı Hz. Yuşa\nın boyu da 17 metredir.</string>
+    <string name="ibadetsuleymaniye">Süleymaniye Camii, Kanuni Sultan Süleyman adına 1551 1557 yılları arasında İstanbul\da Mimar Sinan tarafından inşa edilen camidir.</string>
+    <string name="ibadetkilise">St. Antuan Katolik Kilisesi, İstanbul\ un en büyük ve cemaati en geniş Katolik Kilisesi\dir. Beyoğlu\ndaki İstiklal Caddesi üzerinde Galatasaray\dan Tünel\e doğru giderken sol tarafta bulunur.</string>
+</resources>

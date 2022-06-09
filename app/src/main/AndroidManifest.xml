@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.trip_planner">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Trip_Planner">
+        <activity
+            android:name=".OtoparkCihangir"
+            android:exported="false"
+            android:parentActivityName=".OtoparkCategory"/>
+        <activity
+            android:name=".OtoparkEsenler"
+            android:exported="false"
+            android:parentActivityName=".OtoparkCategory"/>
+        <activity
+            android:name=".OtoparkUskudar"
+            android:exported="false"
+            android:parentActivityName=".OtoparkCategory"/>
+        <activity
+            android:name=".OtoparkBasaksehir"
+            android:exported="false"
+            android:parentActivityName=".OtoparkCategory"/>
+        <activity
+            android:name=".MarketTuzla"
+            android:exported="false"
+            android:parentActivityName=".MarketCategory" />
+        <activity
+            android:name=".MarketSariyer"
+            android:exported="false"
+            android:parentActivityName=".MarketCategory" />
+        <activity
+            android:name=".MarketGoztepe"
+            android:exported="false"
+            android:parentActivityName=".MarketCategory" />
+        <activity
+            android:name=".MarketAvcilar"
+            android:exported="false"
+            android:parentActivityName=".MarketCategory" />
+        <activity
+            android:name=".IbadetYusa"
+            android:exported="false"
+            android:parentActivityName=".IbadethaneCategory" />
+        <activity
+            android:name=".IbadetSinagog"
+            android:exported="false"
+            android:parentActivityName=".IbadethaneCategory" />
+        <activity
+            android:name=".IbadetMihrimah"
+            android:exported="false"
+            android:parentActivityName=".IbadethaneCategory" />
+        <activity
+            android:name=".IbadetKilise"
+            android:exported="false"
+            android:parentActivityName=".IbadethaneCategory" />
+        <activity
+            android:name=".IbadetAyaYorgi"
+            android:exported="false"
+            android:parentActivityName=".IbadethaneCategory" />
+        <activity
+            android:name=".IbadetSuleymaniye"
+            android:exported="false"
+            android:parentActivityName=".IbadethaneCategory" />
+        <activity
+            android:name=".TYYerebatan"
+            android:exported="false"
+            android:parentActivityName=".HistoricalCategory" />
+        <activity
+            android:name=".TYTopkapi"
+            android:exported="false"
+            android:parentActivityName=".HistoricalCategory" />
+        <activity
+            android:name=".TYSultanAhmet"
+            android:exported="false"
+            android:parentActivityName=".HistoricalCategory" />
+        <activity
+            android:name=".TYKapaliCarsi"
+            android:exported="false"
+            android:parentActivityName=".HistoricalCategory" />
+        <activity
+            android:name=".TYGalata"
+            android:exported="false"
+            android:parentActivityName=".HistoricalCategory" />
+        <activity
+            android:name=".TYAyasofya"
+            android:exported="false"
+            android:parentActivityName=".HistoricalCategory" />
+        <activity
+            android:name=".KTurabiBaba"
+            android:exported="false"
+            android:parentActivityName=".LibrariesCategory" />
+        <activity
+            android:name=".KOrhanKemal"
+            android:exported="false"
+            android:parentActivityName=".LibrariesCategory" />
+        <activity
+            android:name=".KErsoy"
+            android:exported="false"
+            android:parentActivityName=".LibrariesCategory" />
+        <activity
+            android:name=".KBeyazit"
+            android:exported="false"
+            android:parentActivityName=".LibrariesCategory" />
+        <activity
+            android:name=".KAtaturk"
+            android:exported="false"
+            android:parentActivityName=".LibrariesCategory" />
+        <activity
+            android:name=".HotelInter"
+            android:exported="false"
+            android:parentActivityName=".HotelsCategory" />
+        <activity
+            android:name=".HotelHoliday"
+            android:exported="false"
+            android:parentActivityName=".HotelsCategory" />
+        <activity
+            android:name=".HotelGreen"
+            android:exported="false"
+            android:parentActivityName=".HotelsCategory" />
+        <activity
+            android:name=".HotelCrowne"
+            android:exported="false"
+            android:parentActivityName=".HotelsCategory" />
+        <activity
+            android:name=".PolonezkoyPark"
+            android:exported="false"
+            android:parentActivityName=".ParksCategory" />
+        <activity
+            android:name=".Login"
+            android:exported="true" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+        <activity
+            android:name=".SignIn"
+            android:exported="false" />
+        <activity
+            android:name=".EmirganKorusu"
+            android:exported="false"
+            android:parentActivityName=".ParksCategory" />
+        <activity
+            android:name=".YildizPark"
+            android:exported="false"
+            android:parentActivityName=".ParksCategory" />
+        <activity
+            android:name=".TopkapiPark"
+            android:exported="false"
+            android:parentActivityName=".ParksCategory" />
+        <activity
+            android:name=".SarachanePark"
+            android:exported="false"
+            android:parentActivityName=".ParksCategory" />
+        <activity
+            android:name=".GoztepePark"
+            android:exported="false"
+            android:parentActivityName=".ParksCategory" />
+        <activity
+            android:name=".HistoricalCategory"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".OtoparkCategory"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MarketCategory"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LibrariesCategory"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".IbadethaneCategory"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".HotelsCategory"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ParksCategory"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"/>
+    </application>
+
+</manifest>
